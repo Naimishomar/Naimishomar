@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on MockPrep, India's first AI interviewer and mentorship application that helps you to upscale your technical skills<br>🌱 I’m currently learning DSA<br>📫 Contact me: naimishomar@gmail.com || +919838612359<br>📄 Know about my experiences: https://drive.google.com/file/d/1fcswjik44Lojra-VlQayGgigwx2xfz7p/view?usp=drive_link
+# Hi there💫I am Naimish Omar:
+<br>I am as aspiring software developer with a strong foundation in full stack and UI/UX design and experience in building scalable web applications. Passionate about AI-powered learning platforms and collaborative development.<br>📫 Contact me: naimishomar@gmail.com || +919838612359<br>📄 Know about my experiences: https://drive.google.com/file/d/1fcswjik44Lojra-VlQayGgigwx2xfz7p/view?usp=drive_link
 
 
 ## 🌐 Socials:
