@@ -1,5 +1,5 @@
 # Hi there💫I am Naimish Omar:
-<br>I am as aspiring software developer with a strong foundation in Full Stack Web development and UI/UX designs and experience in building scalable web applications. Passionate about AI-powered learning platforms and collaborative development.<br>📫 Contact me: naimishomar@gmail.com || +919838612359<br>📄 Know about my experiences: https://drive.google.com/file/d/1fcswjik44Lojra-VlQayGgigwx2xfz7p/view?usp=drive_link
+<br>I am as aspiring software developer with a strong foundation in Full Stack Web development and UI/UX designs and experience in building scalable web applications. Passionate about AI-powered learning platforms and collaborative development.<br>📫 Contact me: naimishomar.dev@gmail.com || +919838612359<br>📄 Know about my experiences: https://drive.google.com/file/d/1fcswjik44Lojra-VlQayGgigwx2xfz7p/view?usp=drive_link
 
 
 ## 🌐 Socials:
